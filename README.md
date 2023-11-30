@@ -7,8 +7,6 @@
 
 </h3>
 
-
-
 <p  align="center">
 
 <img  src="https://komarev.com/ghpvc/?username=imeshhirushan2117&label=Profile%20views&color=0047AB&style=plastic?"  alt="imeshhirushan2117"  height=25px,  width=160px/>
@@ -46,6 +44,9 @@
 <img  src="https://profile-counter.glitch.me/imeshhirushan2117/count.svg">
 
 <div/>
+
+
+
 
 <div align="center">
 
@@ -266,16 +267,18 @@
 
 <div  align="center">
 
-<h3 align="left">Support:🤩 </h3>
-<p><a href="https://www.buymeacoffee.com/If you like what I do, maybe consider buying me a coffee 💖 👨‍💻"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="If you like what I do, maybe consider buying me a coffee 💖 👨‍💻" /></a></p><br><br>
+&emsp;
+
+<h3 align="center">Support:🤩 </h3>
+<p><a href="https://www.buymeacoffee.com/If you like what I do, maybe consider buying me a coffee 💖 👨‍💻"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="If you like what I do, maybe consider buying me a coffee 💖 👨‍💻" /></a></p><br><br>
 
 <div/>
 
-&emsp;
-
 <div align="center"> 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&pause=1000&color=2FA168&random=false&width=435&lines=%22FIRST%2C+SOLVE+THE+PROBLEM.%22;%22GREAT+DEVELOPERS+NEVER+STOP+LEARNING%22)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -285,10 +288,11 @@
 
 </div>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
-
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div/>
+
