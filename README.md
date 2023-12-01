@@ -247,7 +247,7 @@
 
 
 
-<a  href="imeshhirushan2117@gmail.com"><img  img  src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"  alt="Gmail"/></a>
+<a  href="mailto:imeshhirushan2117@gmail.com"><img  img  src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"  alt="Gmail"/></a>
 
 <a  href="https://github.com/imeshhirushan2117"><img  src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"  alt="GitHub"/></a>
 
@@ -255,11 +255,11 @@
 
 <a  href="https://www.linkedin.com/in/imesh-hirushan-b2aab1224/"><img  src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"  alt="LinkedIn"/></a>
 
-<a  href="https://https://www.facebook.com/imesh.hirushan.98/"><img  src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"  alt="Facebook"/></a>
+<a  href="https://www.facebook.com/imesh.hirushan.98/"><img  src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"  alt="Facebook"/></a>
 
 <a  href="https://www.instagram.com/_imesh_hirushan_/"><img  src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"  alt="Instagram"/></a>
 
-<a  href="https://msng.link/o/?ahmed.7oskaa=sc"><img  src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=plastic&logo=twitter&logoColor=white"  alt="twitter"/></a>
+<a  href="https://twitter.com/imesh_57"><img  src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=plastic&logo=twitter&logoColor=white"  alt="twitter"/></a>
 </div>
 
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
