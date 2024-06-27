@@ -121,7 +121,7 @@
 
 <a  href="https://www.w3.org/html/"  target="_blank">
 
-<img  alt="HTML"  src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+<img  alt="HTML"  src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
 
 </a>
 
@@ -136,31 +136,82 @@
 
 &emsp;
 
-<a  href="https://www.w3schools.com/css/"  target="_blank">
+<a  href="https://tailwindcss.com/"  target="_blank">
 
-<img  alt="CSS"  src="https://img.shields.io/badge/Bootstrap%20-6E10EE.svg?style=plastic&logo=Bootstrap&logoColor=white">
-
-</a>
-
-&emsp;
-
-<a  href="https://www.python.org"  target="_blank">
-
-<img  alt="Python"  src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+<img  alt="CSS"  src="https://img.shields.io/badge/Tailwindcss%20-38bdf8.svg?style=plastic&logo=tailwindcss&logoColor=white">
 
 </a>
 
 &emsp;
 
-<a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank">
+<a  href="https://getbootstrap.com/"  target="_blank">
 
-<img  alt="JavaScript"  src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+<img  alt="boostrap"  src="https://img.shields.io/badge/Bootstrap%20-ehite.svg?style=plastic&logo=Bootstrap&logoColor=white">
+
+</a>
+
+&emsp;
+
+<a  href="https://react.dev/"  target="_blank">
+
+<img  alt="Php"  src="https://img.shields.io/badge/React%20-58c4dc.svg?style=plastic&logo=react&logoColor">
+
+</a>
+
+&emsp;
+
+<a  href="https://vitejs.dev/"  target="_blank">
+<img  alt="Vite" src="https://img.shields.io/badge/Vite%20-8C72FE.svg?style=plastic&logo=vite&logoColor=white">
+
+</a>
+
+&emsp;
+<a  href="https://www.php.net/"  target="_blank">
+
+<img  alt="Php"  src="https://img.shields.io/badge/php%20-7a85b7.svg?style=plastic&logo=php&logoColor=white">
 
 </a>
 
 </p>
 
 &emsp;
+
+<a  href="https://www.php.net/"  target="_blank">
+
+<img  alt="Php"  src="https://img.shields.io/badge/React native%20-58c4dc.svg?style=plastic&logo=react&logoColor">
+
+</a>
+
+</p>
+
+&emsp;
+
+
+
+## <img   src = "https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif??raw=true"  width = 50px><b> Backend Development</b>
+
+<p  align="center">
+
+<a  href="https://spring.io/projects/spring-boot"  target="_blank">
+
+<img  alt="springboot"  src="https://img.shields.io/badge/Spring Boot%20-%6db33f.svg?style=plastic&logo=springboot&logoColor=white">
+
+</a>
+
+
+&emsp;
+
+<a  href="https://laravel.com"  target="_blank">
+
+<img  alt="laravel"  src="https://img.shields.io/badge/Laravel%20-ff2d20.svg?style=plastic&logo=laravel&logoColor=white">
+
+</a>
+
+
+&emsp;
+
+
+
 
 ## <img   src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true"  width = 50px><b>   Software & Tools</b>
 
@@ -177,8 +228,6 @@
 &emsp;
 
 <a  href="#"><img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-
-
 
 &emsp;
 
